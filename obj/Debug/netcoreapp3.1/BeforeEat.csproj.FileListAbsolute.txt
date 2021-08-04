@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.exe
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.deps.json
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.dll
+C:\Users\LENOVO\Desktop\BeforeEat\bin\Debug\netcoreapp3.1\BeforeEat.pdb
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.dll
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.pdb
+C:\Users\LENOVO\Desktop\BeforeEat\obj\Debug\netcoreapp3.1\BeforeEat.genruntimeconfig.cache
