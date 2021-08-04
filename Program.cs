@@ -12,10 +12,13 @@ namespace BeforeEat
             // Console.WriteLine(y);
             // y = y -4294967295;
             // Console.WriteLine(sizeof(uint)+" "+uint.MinValue+" "+uint.MaxValue);
-            // Console.WriteLine(y);
-            double x = 0.1 + 0.2;
-            Console.WriteLine(x);
-            Console.WriteLine(int.m);         
+            // // Console.WriteLine(y);
+            int? i = null;
+            string x = null;
+            i = x?.Length ?? 9;
+            Console.WriteLine(i==null? 7 : i);
+            
+
         }
     }
 }
