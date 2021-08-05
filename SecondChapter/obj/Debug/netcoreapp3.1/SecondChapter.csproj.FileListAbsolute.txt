@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.exe
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.deps.json
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.runtimeconfig.json
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.dll
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\bin\Debug\netcoreapp3.1\SecondChapter.pdb
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.dll
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.pdb
+C:\Users\LENOVO\Desktop\BeforeEat\SecondChapter\obj\Debug\netcoreapp3.1\SecondChapter.genruntimeconfig.cache
