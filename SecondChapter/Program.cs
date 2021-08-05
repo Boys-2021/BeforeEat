@@ -6,16 +6,14 @@ namespace SecondChapter
     class Program
     {
         static void Main(string[] args){
-        A:
-          Write("What is your height?");
-          string hi = ReadLine();
-
-          hi = hi switch {
-            "a" => "j",
-            "b" =>"Vantingale",
-             _ => "2"
-          };
-          Write(hi);
+          string input = "";
+          int count = 1;
+          do{
+              WriteLine("Enter a good pass");
+              input = ReadLine();
+              count++;
+          }while(input.Length<10&&count<5);
+        }
       }
-    }
+    
 }
